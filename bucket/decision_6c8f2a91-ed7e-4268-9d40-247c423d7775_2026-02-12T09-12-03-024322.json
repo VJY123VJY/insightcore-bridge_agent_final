@@ -1,0 +1,11 @@
+{
+  "decision_id": "6c8f2a91-ed7e-4268-9d40-247c423d7775",
+  "timestamp": "2026-02-12T09:12:03.024322",
+  "client_id": "initial",
+  "decision": "PENDING",
+  "metadata": {
+    "issuer": "sovereign-core",
+    "enforcer": "insight-bridge",
+    "reason": "Resource: market_data"
+  }
+}

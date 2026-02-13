@@ -1,0 +1,11 @@
+{
+  "decision_id": "90cef0c4-48a0-4ba6-8a8a-b2f48ee1ad17",
+  "timestamp": "2026-02-12T09:12:02.014188",
+  "client_id": "vi_dhawan",
+  "decision": "ALLOW",
+  "metadata": {
+    "issuer": "sovereign-core",
+    "enforcer": "insight-bridge",
+    "reason": "Policy matches"
+  }
+}
